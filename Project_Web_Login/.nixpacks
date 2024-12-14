@@ -1,2 +1,11 @@
 [languages]
 java = true
+
+[phases.setup]
+apt = ["maven"] # Cài đặt Maven để build dự án
+
+[phases.build]
+command = "mvn clean package" # Dùng Maven để build file .war
+
+[phases.start]
+command = "java -jar target/Project_Web_Login/out/artifacts/Project_Web_Login_war/Project_Web_Login_war.war" # Thay 'target/' bằng đường dẫn chính xác file .war sau khi build
