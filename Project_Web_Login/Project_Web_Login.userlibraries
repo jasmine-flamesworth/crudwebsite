@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Java EE 6-Java EE 6">
+    <archive path="D:/thuctap/Project_Web_Login/lib/javax.annotation.jar" />
+    <archive path="D:/thuctap/Project_Web_Login/lib/javax.transaction.jar" />
+    <archive path="D:/thuctap/Project_Web_Login/lib/javax.servlet.jsp.jstl.jar" />
+    <archive path="D:/thuctap/Project_Web_Login/lib/javax.jms.jar" />
+    <archive path="D:/thuctap/Project_Web_Login/lib/javax.servlet.jsp.jar" />
+    <archive path="D:/thuctap/Project_Web_Login/lib/javax.resource.jar" />
+    <archive path="D:/thuctap/Project_Web_Login/lib/javax.ejb.jar" />
+    <archive path="D:/thuctap/Project_Web_Login/lib/javax.servlet.jar" />
+    <archive path="D:/thuctap/Project_Web_Login/lib/javax.persistence.jar" />
+    <archive path="C:/Users/DELL/Downloads/javax.mail.jar" />
+    <archive path="D:/thuctap/Project_Web_Login/lib/jstl-1.2.jar" />
+  </library>
+</eclipse-userlibraries>
+
